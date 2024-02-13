@@ -389,12 +389,27 @@ section {
                         width: 90%;
                     }
 
-                    .dart {
+                    .dart,.silverstipe {
                         width: 62%;
+                    }
+                    .sass{
+                        width: 52%;
                     }
 
                     .node {
-                        width: 55%;
+                        width: 35%;
+                    }
+                    .yii2,.codeigniter{
+                        width: 85%;
+                    }
+                    .cakephp,.bootstrap,.wordpress{
+                        width: 75%;
+                    }
+                    .laravel10{
+                        width: 35%;
+                    }
+                    .figma{
+                        width: 70%;
                     }
 
                 }

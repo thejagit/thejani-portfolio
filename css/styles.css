@@ -346,11 +346,26 @@ section {
 .about-stats .progress-bars .progress-bar .progress-con .progress .jquery {
   width: 90%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .dart {
+.about-stats .progress-bars .progress-bar .progress-con .progress .dart, .about-stats .progress-bars .progress-bar .progress-con .progress .silverstipe {
   width: 62%;
 }
+.about-stats .progress-bars .progress-bar .progress-con .progress .sass {
+  width: 52%;
+}
 .about-stats .progress-bars .progress-bar .progress-con .progress .node {
-  width: 55%;
+  width: 35%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .yii2, .about-stats .progress-bars .progress-bar .progress-con .progress .codeigniter {
+  width: 85%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .cakephp, .about-stats .progress-bars .progress-bar .progress-con .progress .bootstrap, .about-stats .progress-bars .progress-bar .progress-con .progress .wordpress {
+  width: 75%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .laravel10 {
+  width: 35%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .figma {
+  width: 70%;
 }
 
 .stat-title {
